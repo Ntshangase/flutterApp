@@ -3,7 +3,7 @@ import 'package:module3/login.dart';
 
 void main() {
   runApp(const MaterialApp(
-    title: "Module 3",
+    title: "flutterApp",
     debugShowCheckedModeBanner: false,
     home: MODULE3(),
   ));
@@ -17,7 +17,7 @@ class MODULE3 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Home Screen"),
-        backgroundColor: Colors.yellow,
+        backgroundColor: Colors.lightBlueAccent,
         actions: <Widget>[
           IconButton(
               // ignore: avoid_print
@@ -44,7 +44,7 @@ class MODULE3 extends StatelessWidget {
         child: Container(
           height: 50.0,
         ),
-        color: Colors.yellow,
+        color: Colors.lightBlueAccent,
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
     );

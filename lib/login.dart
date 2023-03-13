@@ -17,7 +17,7 @@ class Login extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Login Page"),
       ),
-      backgroundColor: Colors.blueGrey,
+      backgroundColor: Colors.lightBlueAccent,
       body: Column(
         children: [
           Padding(
