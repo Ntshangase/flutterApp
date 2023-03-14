@@ -15,3 +15,9 @@ https://www.youtube.com/watch?v=JFKYihS2IAk&t=538s
 
 # Dependancies
 You need flutter installed for this one
+
+# What to expect
+![Screenshot (72)](https://user-images.githubusercontent.com/62051440/224945576-21077595-73d6-4097-aaf9-8bb82c1b0522.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/62051440/224945605-68ea61ba-d4ed-490b-890f-971824dd17e5.png)
+
+![Screenshot (74)](https://user-images.githubusercontent.com/62051440/224945743-729dfc5f-cf1f-4c46-b372-c6958b834555.png)
